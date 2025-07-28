@@ -1,0 +1,42 @@
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.obj
+*.exe
+*.log
+*.pdb
+*.idb
+*.ilk
+*.tlog
+
+# Others
+*.suo
+*.cache
+*.sdf
+*.opensdf
+*.dbmdl
+*.bak
+*.ncb
+*.sbr
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Git
+.gitignore
